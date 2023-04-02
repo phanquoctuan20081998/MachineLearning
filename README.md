@@ -1,6 +1,6 @@
-#Linear Regression
+# Linear Regression
 
-##Prolem
+## Prolem
 Predict house price based on room number.
 **Input:** 
 $$
