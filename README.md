@@ -2,7 +2,8 @@
 
 ## Prolem
 Predict house price based on room number.
-**Input:** 
+** Input: ** 
+
 $$
 x \in \mathbb{N}
 $$
