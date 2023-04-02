@@ -32,7 +32,7 @@ $$\mathcal{L}(w, b)=\frac{1}{n} \sum_{i=1}^m\left(y_i-\hat{y}_i\right)^2$$
 Our goal is to minimize the loss function $\mathcal{L}(w, b)$ by finding the values of $w$ and $b$ that result in the smallest possible value for the loss.  
 We use gradient descent to optimize the values of $w$ and $b$:
 
-$$ \left\{\begin{array}{l}w:=w-\alpha\frac{\partial \mathcal{L}(w, b)}{\partial w} \\ b:=b-\alpha\frac{\partial \mathcal{L}(w, b)}{\partial b}\end{array}\right. $$
+$$ \left\{\begin{array}{l}w:=w-\alpha\frac{\partial \mathcal{L}(w, b)}{\partial w} \ b:=b-\alpha\frac{\partial \mathcal{L}(w, b)}{\partial b}\end{array}\right. $$
 
 Here, $\alpha$ is the learning rate, which controls how large the updates to $w$ and $b$ are on each iteration. We need to compute the partial derivatives of the loss function with respect to $w$ and $b$:
 
