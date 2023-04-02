@@ -10,7 +10,7 @@ The goal of this task is to predict the price of a house based on the number of 
 
 ## Dataset
 
-We are given a dataset of $n$ datapoints: $X=\left\{\left(x_1, y_1\right),\left(x_2, y_2\right), \ldots ,\left(x_n, y_n\right)\right\}$.
+We are given a dataset of $n$ datapoints: $X=\{(x_1, y_1),(x_2, y_2), \ldots ,(x_n, y_n)\}$.
 Here, $x_1, x_2,\ldots, x_n$ represent the number of rooms, while $y_1, y_2,\ldots, y_n$ represent the corresponding house prices (**ground truth**).
 
 ## Solution
