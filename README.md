@@ -2,7 +2,7 @@
 
 ## Prolem
 
-Predict house price based on number of rooms.
+Predict house price based on number of rooms.  
 **Input:** x_predict - a natural number of rooms
 
 $$
